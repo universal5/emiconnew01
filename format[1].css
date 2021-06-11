@@ -1,0 +1,53 @@
+ body {
+            margin:0px;
+            padding: 0px;
+            font-family: 'Lato', sans-serif;
+            
+        }
+
+        h1 {
+            background-color: rgb(32, 32, 32);
+            font-size: 80px;
+            color: white;
+            text-align: center;
+            padding: 0px 0px;
+        }
+
+        p{ font-size: 18px; line-height: 150%;}
+        
+        ol {font-size: 110%;}
+        li{text-align: left; line-height: 150%;}
+
+        a {color:#81699B; font-weight: bold; font-size: 125%; text-decoration: none;}
+        a:hover {color: #557D73;}
+        .branding {height: 60px;}        
+        .logoimg {height: 75px; margin: 15px; }
+        .branding p{color:#eee; font-size: 14px;}
+        .brandlogodiv{float:left;}
+        .brandslogandiv {float:left;}
+        /*.logoimg {height: 50px; position: absolute ; top:20px; left: 20px;}*/
+        
+        .topandmiddle {height: 100%;}
+
+        .topdiv {            
+            background-color: rgb(32, 32, 32); border: 1px solid rgb(32, 32, 32); margin: 0px; padding: 0px;
+        }
+
+        .middlecontentdiv {
+            max-width: 660px; border: 0px solid darkgoldenrod; margin: auto; padding: 0px 15px;
+            
+        }
+
+        .mainimage {
+            margin-top: 35px;
+            text-align: center;
+            width: 100%;
+        }
+        .middlecontentdiv p{
+            text-align: left;
+        }
+
+        .footer {  
+            margin-top: 50px;          
+            min-height: 75px; background-color: rgb(32, 32, 32);
+        }
